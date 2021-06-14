@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jess.
+- 👀 I’m interested in gardening, knitting, baking, programming and Linux.
+- 🌱 I’m currently learning Python, Django, SQL.
+- 📫 How to reach me: @CuriousFridge on Twitter
